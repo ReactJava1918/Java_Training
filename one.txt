@@ -1,1 +1,3 @@
 Hello this the file  you to help on git commnds
+
+ i am second user hello
