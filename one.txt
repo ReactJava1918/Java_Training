@@ -1,3 +1,6 @@
 Hello this the file  you to help on git commnds
 
  i am second user hello
+ 
+ 
+ dev1 add this chnages. india captial is hyderabad
